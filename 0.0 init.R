@@ -6,7 +6,7 @@
 # Student number: 3190974
 # Supervised by:  Prof.dr. Giacomo Zanella
 #
-# Title: 
+# Title: Estimating Loss Reserves using a Mixture Density Network in a Deep Learning Recurrent Framework
 #
 # Abstract: The importance of loss reserving in insurance is well-established and 
 # the introduction of machine learning into this field has opened many doors into new 

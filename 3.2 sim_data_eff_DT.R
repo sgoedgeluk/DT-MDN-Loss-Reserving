@@ -6,7 +6,7 @@
 # Student number: 3190974
 # Supervised by:  Prof.dr. Giacomo Zanella
 #
-# Title: 
+# Title: Estimating Loss Reserves using a Mixture Density Network in a Deep Learning Recurrent Framework
 #
 # File Description:
 # Training and forecasting of the DeepTriangle-based models for the experiment focusing on 
